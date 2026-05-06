@@ -14,7 +14,7 @@ datasets:
     datasetroot: "Dataset root path"
     resolution: 256
     num_workers: 2
-    batch_size: 1
+    batch_size: 6
     use_shuffle: true
     data_len: -1
   val:
