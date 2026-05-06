@@ -1,0 +1,14 @@
+einops==0.7.0
+matplotlib==3.8.3
+monai==1.3.0
+numpy
+opencv-python==4.9.0.80
+Pillow
+pyyaml
+scipy==1.12.0
+torch
+torchvision
+tqdm==4.65.2
+mmcv==2.1.0
+mmengine==0.10.3
+mmsegmentation==1.2.2
